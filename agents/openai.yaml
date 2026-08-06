@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号技术贴排版"
+  short_description: "智能整理无序原文并生成可直接粘贴的公众号技术文章"
+  default_prompt: "请智能整理我粘贴的无序技术原文，自动拟标题、划分章节和操作步骤，并生成微信公众号兼容的内联样式 HTML 与 Markdown。"
